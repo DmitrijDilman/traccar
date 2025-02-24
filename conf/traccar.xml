@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key='database.driver'>org.postgresql.Driver</entry>
+    <entry key='database.url'>jdbc:postgresql://localhost:5432/traccar</entry>
+    <entry key='database.user'>traccar</entry>
+    <entry key='database.password'>JuMC-2025</entry>
+    <entry key='web.port'>8090</entry>
+	<entry key='web.path'>./traccar-web</entry>
+
+</properties>
